@@ -4,3 +4,5 @@
 
 # 测试方法
 
+- npx parcel client/index.html && node server/index.js
+- 打开[localhost:1234](http://localhost:1234)
